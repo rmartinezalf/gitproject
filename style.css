@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    ;
+}
+
+h1 {
+
+    color: #85476c;
+    text-align: center;
+}
+
+h2 {
+
+    color: #85476c;
+    text-align: center;
+}
+
+.cls-div1
+{
+   width: "25";	
+   float:left;
+   padding:10px;
+   margin: 10px;
+}
+.cls-div2
+{
+   width: "25";	
+   float:left;
+   padding:3px;
+   margin: 10px;
+}
+
+.cls-div3
+{
+   width: "25";	
+   float:left;
+   padding:3px;
+   margin: 10px;
+}
+
+.cls-div4
+{
+   background: #ffc10730;
+   width: "100";	
+   float:right;
+   position: relative;
+   padding:3px;
+   /*margin: 5px;*/
+}
+
+.cls-header
+{
+  background: #ffc10717;
+}
